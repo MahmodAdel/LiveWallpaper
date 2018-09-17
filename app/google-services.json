@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1066888126830",
+    "firebase_url": "https://fir-storageexample-12bb0.firebaseio.com",
+    "project_id": "fir-storageexample-12bb0",
+    "storage_bucket": "fir-storageexample-12bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066888126830:android:4bf6e184bb1635ba",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066888126830-kqg76e3k5li7nvdjm6fcmh72b2n8erog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoud.livewallpaper",
+            "certificate_hash": "9a50fa9e631f7b12c3232fdb68caba7abbcb37d3"
+          }
+        },
+        {
+          "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5Tz9FyQlfXZyjZ3MxsPA6ecAsaHVptA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066888126830:android:8a4354d4e4ed66b9",
+        "android_client_info": {
+          "package_name": "com.example.mahmoudfcih.chatek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066888126830-1tuhhrtbin8bcs1ort2oeq5ml9v4i9d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoudfcih.chatek",
+            "certificate_hash": "92149c07d327f8b42a9ff4cd7695f64f0f506014"
+          }
+        },
+        {
+          "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5Tz9FyQlfXZyjZ3MxsPA6ecAsaHVptA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066888126830:android:c38e6f9c20d2a082",
+        "android_client_info": {
+          "package_name": "com.example.mahmoudfcih.firebasestorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066888126830-h7djv5koermgbf6g5b62nlbujf659qjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoudfcih.firebasestorageexample",
+            "certificate_hash": "92149c07d327f8b42a9ff4cd7695f64f0f506014"
+          }
+        },
+        {
+          "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5Tz9FyQlfXZyjZ3MxsPA6ecAsaHVptA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066888126830-3anari4kpmvp72ompibt1gg3h7tm3htn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+package com.example.mahmoud.livewallpaper.Database;
+
+import android.arch.persistence.room.ColumnInfo;
+import android.arch.persistence.room.Entity;
+
+import io.reactivex.annotations.NonNull;
+
+/**
+ * Created by mahmoud on 20/04/18.
+ */
+
+@Entity(tableName = "recents", primaryKeys = {"imageLink","categoryId"})
+public class Recents {
+
+
+    @android.support.annotation.NonNull
+    @ColumnInfo(name = "imageLink")
+    private String imageLink;
+
+    @android.support.annotation.NonNull
+    @ColumnInfo(name = "categoryId")
+    private String categoryId;
+
+
+    @ColumnInfo(name = "saveTime")
+    private String saveTime;
+
+
+    @ColumnInfo(name = "key")
+    private String key;
+
+
+    public Recents(@android.support.annotation.NonNull String imageLink, @android.support.annotation.NonNull String categoryId, String saveTime, String key) {
+        this.imageLink = imageLink;
+        this.categoryId = categoryId;
+        this.saveTime = saveTime;
+        this.key = key;
+    }
+
+    public String getImageLink() {
+        return imageLink;
+    }
+
+    public void setImageLink(String imageLink) {
+        this.imageLink = imageLink;
+    }
+
+    public String getCategoryId() {
+        return categoryId;
+    }
+
+    public void setCategoryId(String categoryId) {
+        this.categoryId = categoryId;
+    }
+
+    public String getSaveTime() {
+        return saveTime;
+    }
+
+    public void setSaveTime(String saveTime) {
+        this.saveTime = saveTime;
+    }
+
+    public String getKey() {
+        return key;
+    }
+
+    public void setKey(String key) {
+        this.key = key;
+    }
+}

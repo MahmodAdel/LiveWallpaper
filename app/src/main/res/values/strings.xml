@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Live Wallpaper</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Category_fragment">Category fragment</string>
+    <string name="Dailypopular_fragment">Dailypopular fragment</string>
+    <string name="Recents_fragment">Recents fragment</string>
+    <string name="facebook_app_id">482105745539481</string>
+    <string name="facebook_login_protocol_schema">fb482105745539481</string>
+
+
+</resources>
